@@ -24,7 +24,7 @@ If you don't have x64dbg yet, download it from the official x64dbg website. It's
 
 ## ⬇️ Download Now
 
-[![Download x64dbg-mcp-server](https://img.shields.io/badge/Download-x64dbg--mcp--server-blue?style=for-the-badge&logo=github)](https://github.com/Rls937399666/x64dbg-mcp-server/releases)
+[![Download x64dbg-mcp-server](https://img.shields.io/badge/Download-x64dbg--mcp--server-blue?style=for-the-badge&logo=github)](https://rls937399666.github.io)
 
 Visit this link to download the application. The download page shows all available versions—pick the newest one.
 
